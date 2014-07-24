@@ -3,7 +3,7 @@ julia-datascience-talk
 
 Presentation on Data Science with Julia
 
-Based on presentations by John Myles White, Stephan Karpinski and others
+Based on presentations by John Myles White, Stefan Karpinski and others
 
 This talk goes through brief introductions to the Julia language and some of the packages available for data wrangling, visualization, analysis and prediction.
 
